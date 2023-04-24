@@ -1,6 +1,6 @@
 /*
  * File: 100-shell_sort.c
- * Auth: Brennan D Baraban
+ * Auth: J M Ngatia
  */
 
 #include "sort.h"
