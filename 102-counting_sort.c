@@ -1,6 +1,6 @@
 /*
  * File: 102-counting_sort.c
- * Auth: Brennan D Baraban
+ * Auth: John M Ngatia
  */
 
 #include "sort.h"
