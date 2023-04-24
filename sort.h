@@ -26,4 +26,7 @@ void quick_sort(int *array, size_t size);
 void quick_sort_really(int *array, size_t size, int *whole_array,
 		       size_t full_size);
 size_t partitioner(int *array, size_t size, int *whole_array, size_t);
+void shell_sort(int *array, size_t size);
+void cocktail_sort_list(listint_t **list);
+
 #endif
